@@ -1,2 +1,2 @@
-# LuluBank-DataBase
+# LuluBank DataBase
 Database used for LuluBank proyect.
